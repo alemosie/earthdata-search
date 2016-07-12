@@ -14,6 +14,8 @@ EOSDIS [User Registration System (URS)](https://urs.earthdata.nasa.gov) authenti
 the [Global Imagery Browse Services (GIBS)](https://earthdata.nasa.gov/gibs) for visualization,
 and a number of OPeNDAP services hosted by data providers.
 
+NASA <3 Upperline
+
 ## Components
 
 In addition to the main project, we have open sourced stand-alone components built for
